@@ -137,7 +137,7 @@ REPO="xscriptor/xcode" bash &lt;(curl -fsSL ...) -s -- -u   # remote uninstall</
 <div id="x" align="center">
 <h2>X</h2>
 
-<a href="https://dev.xscriptor.com">
+<a href="https://xscriptor.io">
   <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
 </a>
  & 

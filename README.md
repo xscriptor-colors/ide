@@ -7,9 +7,9 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="editors/"><img src="https://img.shields.io/badge/Editors-34-948ae3.svg" alt="Editors: 34"></a>
   <a href="colors.json"><img src="https://img.shields.io/badge/Themes-12-5ad4e6.svg" alt="Themes: 12"></a>
-  <a href="https://github.com/xscriptor/ide"><img src="https://img.shields.io/github/repo-size/xscriptor/ide?label=size&color=7bd88f" alt="Repo size"></a>
-  <a href="https://github.com/xscriptor/ide/stargazers"><img src="https://img.shields.io/github/stars/xscriptor/ide?color=fce566" alt="Stars"></a>
-  <a href="https://github.com/xscriptor/ide/commits/main"><img src="https://img.shields.io/github/last-commit/xscriptor/ide?color=fc618d" alt="Last commit"></a>
+  <a href="https://github.com/xscriptor-colors/ide"><img src="https://img.shields.io/github/repo-size/xscriptor-colors/ide?label=size&color=7bd88f" alt="Repo size"></a>
+  <a href="https://github.com/xscriptor-colors/ide/stargazers"><img src="https://img.shields.io/github/stars/xscriptor-colors/ide?color=fce566" alt="Stars"></a>
+  <a href="https://github.com/xscriptor-colors/ide/commits/main"><img src="https://img.shields.io/github/last-commit/xscriptor-colors/ide?color=fc618d" alt="Last commit"></a>
 </div>
 
 <hr>
@@ -31,7 +31,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/xscriptor/vscode">Visual Studio Code</a></td>
+      <td><a href="https://github.com/xscriptor-colors/vscode">Visual Studio Code</a></td>
       <td>VSCode <code>.vsx</code> extension with full JSON themes, icon themes, and product icon.</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
       <td>Vim <code>.vim</code> colorscheme files with UI and syntax highlighting.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/xscriptor/nvim">Neovim</a></td>
+      <td><a href="https://github.com/xscriptor-colors/nvim">Neovim</a></td>
       <td>Complete Neovim configuration with LSP, DAP, and custom X themes.</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
       <td>Xcode <code>.xccolortheme</code> files generated from ANSI terminal palettes.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/xscriptor/jetbrains">JetBrains</a></td>
+      <td><a href="https://github.com/xscriptor-colors/jetbrains">JetBrains</a></td>
       <td>JetBrains <code>.zip</code> plugin with full themes for the entire JetBrains suite.</td>
     </tr>
     <tr>
@@ -163,15 +163,15 @@
       <td>Jupyter Lab <code>.json</code> theme files.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/xscriptor/fresh">Fresh</a></td>
+      <td><a href="https://github.com/xscriptor-colors/fresh">Fresh</a></td>
       <td>Custom color themes for Fresh, the terminal text editor.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/xscriptor/nvim">Neovim</a></td>
+      <td><a href="https://github.com/xscriptor-colors/nvim">Neovim</a></td>
       <td>Complete Neovim configuration with LSP, DAP, and custom X themes.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/xscriptor/fresh">Fresh</a></td>
+      <td><a href="https://github.com/xscriptor-colors/fresh">Fresh</a></td>
       <td>Custom color themes for Fresh, the terminal text editor.</td>
     </tr>
   </tbody>
@@ -182,7 +182,7 @@
 <div align="center">
 <h2>X</h2>
 
-<a href="https://dev.xscriptor.com">
+<a href="https://xscriptor.io">
   <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
 </a>
  & 

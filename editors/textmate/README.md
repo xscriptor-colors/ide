@@ -51,5 +51,5 @@ rm ~/Library/Application\ Support/TextMate/Themes/Xscriptor\ *.tmTheme
 
 ## Links
 
-- [Repository](https://github.com/xscriptor/ide)
+- [Repository](https://github.com/xscriptor-colors/ide)
 - [Colors](../colors.md)
