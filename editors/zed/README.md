@@ -8,7 +8,7 @@
 ./install.sh
 ```
 
-Or manually copy the `.json` files from `dist/` to `~/.config/zed/themes/`.
+Or manually copy the `.json` files from `themes/` to `~/.config/zed/themes/`.
 
 ## Uninstall
 

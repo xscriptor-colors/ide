@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual%20Studio-2019%2B-blue" alt="Visual Studio"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python"></a>
   <a href="#themes"><img src="https://img.shields.io/badge/Themes-12-purple" alt="Themes"></a>
@@ -68,7 +68,7 @@
 <div align="center">
   <a href="https://xscriptor.io">Dev</a>
   &amp;
-  <a href="https://github.com/xscriptor">github</a>
+  <a href="https://github.com/xscriptor">Github</a>
   &amp;
   <a href="https://www.xscriptor.com">X</a>
 </div>
