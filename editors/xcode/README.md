@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-12%2B-blue" alt="Xcode"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python"></a>
   <a href="#themes"><img src="https://img.shields.io/badge/Themes-12-purple" alt="Themes"></a>
@@ -30,7 +30,7 @@
 
 <p>
   This generator reads ANSI terminal palettes (16 colors each, 12 palettes) defined in
-  <a href="colors.md"><code>colors.md</code></a> and produces Xcode
+  <a href="../../colors.md"><code>colors.md</code></a> and produces Xcode
   <code>.xccolortheme</code> files. Each palette maps to 24 Xcode syntax
   tokens (keywords, strings, comments, types, etc.) so that the editor's
   syntax highlighting matches the terminal color scheme.
@@ -39,7 +39,7 @@
 <p>
   Canonical themes live in <a href="themes/"><code>themes/</code></a>.
   When the source palette changes, run the generator to rebuild them into
-  <a href="labs/dist/"><code>labs/dist/</code></a>.
+  <a href="labs/README.md"><code>labs/dist/</code></a>.
 </p>
 
 <hr>
@@ -121,13 +121,13 @@ REPO="xscriptor/xcode" bash &lt;(curl -fsSL ...) -s -- -u   # remote uninstall</
 <h2 id="related-documents">Related Documents</h2>
 
 <ul>
-  <li id="colors-md"><a href="colors.md">colors.md</a></li>
-  <li id="contributing-md"><a href="CONTRIBUTING.md">CONTRIBUTING.md</a></li>
-  <li id="security-md"><a href="SECURITY.md">SECURITY.md</a></li>
-  <li id="code-of-conduct-md"><a href="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li>
+  <li id="colors-md"><a href="../../colors.md">colors.md</a></li>
+  <li id="contributing-md"><a href="../../CONTRIBUTING.md">CONTRIBUTING.md</a></li>
+  <li id="security-md"><a href="../../SECURITY.md">SECURITY.md</a></li>
+  <li id="code-of-conduct-md"><a href="../../CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li>
   <li id="color-mapping-md"><a href="docs/color-mapping.md">docs/color-mapping.md</a></li>
   <li id="labs-readme"><a href="labs/README.md">labs/README.md</a></li>
-  <li id="license"><a href="LICENSE.md">labs/README.md</a></li>
+  <li id="license"><a href="../../LICENSE">LICENSE</a></li>
 </ul>
 
 <hr>
@@ -139,7 +139,7 @@ REPO="xscriptor/xcode" bash &lt;(curl -fsSL ...) -s -- -u   # remote uninstall</
 
 <a href="https://xscriptor.io">Dev</a>
  & 
-<a href="https://github.com/xscriptor">github</a>
+<a href="https://github.com/xscriptor">Github</a>
  & 
 <a href="https://www.xscriptor.com">X</a>
 

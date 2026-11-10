@@ -204,6 +204,6 @@
 
 <a href="https://xscriptor.io">Dev</a>
  & 
-<a href="https://github.com/xscriptor">github</a>
+<a href="https://github.com/xscriptor">Github</a>
  & 
 <a href="https://www.xscriptor.com">X</a>

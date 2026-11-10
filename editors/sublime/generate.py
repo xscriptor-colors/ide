@@ -2,8 +2,8 @@ import json
 import os
 
 PARENT = os.path.dirname(__file__)
-DIST_DIR = os.path.join(PARENT, "dist")
-os.makedirs(DIST_DIR, exist_ok=True)
+THEMES_DIR = os.path.join(PARENT, "themes")
+os.makedirs(THEMES_DIR, exist_ok=True)
 
 with open(os.path.join(PARENT, "..", "..", "colors.json")) as f:
     palettes = json.load(f)
@@ -184,7 +184,7 @@ for name, c in palettes.items():
     }
 
     filename = f"{name}.sublime-color-scheme"
-    filepath = os.path.join(DIST_DIR, filename)
+    filepath = os.path.join(THEMES_DIR, filename)
     with open(filepath, "w") as f:
         json.dump(scheme, f, indent=2)
     print(f"  ✓ {filename}")

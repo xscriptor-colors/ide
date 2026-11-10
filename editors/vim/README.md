@@ -8,7 +8,7 @@ Copy the `.vim` files to your `~/.vim/colors/` directory:
 
 ```bash
 # Option 1: Copy all themes
-cp dist/*.vim ~/.vim/colors/
+cp themes/*.vim ~/.vim/colors/
 
 # Option 2: Use the install script
 chmod +x install.sh
